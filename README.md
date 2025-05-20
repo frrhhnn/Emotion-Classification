@@ -2,6 +2,9 @@
 
 This project implements an emotion classification model using a Bidirectional LSTM (BiLSTM) neural network with GloVe word embeddings. The model classifies text into emotion categories (e.g., happy, sad, angry) based on a dataset of labeled text samples. The project includes preprocessing, model training, evaluation, and interactive prediction for new text inputs.
 
+## Datasets and Word Embeddings
+https://drive.google.com/drive/folders/1pOpGiCebXtBUdVs8hLpkjK5N5TJfyuna?usp=sharing
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
